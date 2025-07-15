@@ -30,7 +30,7 @@ This repository contains multiple deep learning models designed for crowd counti
 ## Setup
 
 ```bash
-git clone https://github.com/Celestial317/Crowd_Counting-Analysis.git
+git clone https://github.com/DeveloperAkansh26/Crowd_Counting-Analysis.git
 cd Crowd_Counting-Analysis
 
 python -m venv venv
